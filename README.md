@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" width="350" alt="girl coding">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7V8DClkG4bEpCQLxGBlTQOGcFZ5LC5-TLNw&s" width="350" alt="girl coding">
 </h1>
 
 
