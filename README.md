@@ -1,7 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3A4eW4xOGc1Mzd2cnJybzVnZGtwbnRlNGI3emZlMjQ1bmg4ZzNyaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KEYn2e2nU9Lkp0ihD0/giphy.gif" width="400" alt="girl developer">
-  
+<img src="https://i.imgur.com/zXHcW5C.gif" width="350" alt="girl coding">
 </h1>
 
 
