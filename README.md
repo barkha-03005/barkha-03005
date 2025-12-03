@@ -1,12 +1,9 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I1bzE2bnVlbmNnNmN4aXJqOXVxNmNqdDNsaW1qeWx6MDdzbGx6OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eF7hIiuGUBC2FQEGQe/giphy.gif" width="400" alt="girl coding">
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3A4eW4xOGc1Mzd2cnJybzVnZGtwbnRlNGI3emZlMjQ1bmg4ZzNyaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KEYn2e2nU9Lkp0ihD0/giphy.gif" width="400" alt="girl developer">
+  
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamRhaGxlZXc3dm10OWRoNmxkNG16a2h4NXk3YWxkbjZwNTFuZ2xxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif">
-</p>
 
 ---
 
