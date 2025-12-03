@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-<img src="https://i.imgur.com/zXHcW5C.gif" width="350" alt="girl coding">
+<img src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQ3NjAxMjYsIm5iZiI6MTc2NDc1OTgyNiwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjAzVDExMDM0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU0ZWM3MDM5N2IxMGYyNzJlOGE3OWU2ZGU2ZTEyYTM3OGQ1Mjk3M2ZjYzczMGJjYjg0ZTZiMzgxNWUzNDFiZDgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.EG3V4LELSlu4OOKYG-mtUetUPckXLJvg8ihbeBJksEs" width="350" alt="girl coding">
 </h1>
 
 
