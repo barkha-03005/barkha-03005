@@ -1,6 +1,7 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9A5CFF&center=true&vCenter=true&width=900&lines=Hi+I'm+Barkha+Tiwari+👋;Frontend+Developer+%7C+Data+Science+Learner;Love+building+clean+and+aesthetic+UIs;Welcome+to+my+GitHub+Profile!">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I1bzE2bnVlbmNnNmN4aXJqOXVxNmNqdDNsaW1qeWx6MDdzbGx6OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eF7hIiuGUBC2FQEGQe/giphy.gif" width="400" alt="girl coding">
+
 </h1>
 
 <p align="center">
